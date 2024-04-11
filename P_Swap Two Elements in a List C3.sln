@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "P_Swap Two Elements in a List C3", "P_Swap Two Elements in a List C3.pyproj", "{959E3EAA-C367-4CAF-B8C7-0143007B47CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{959E3EAA-C367-4CAF-B8C7-0143007B47CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959E3EAA-C367-4CAF-B8C7-0143007B47CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BD05A6F-B069-434A-8E2A-C3F278BCA739}
+	EndGlobalSection
+EndGlobal
